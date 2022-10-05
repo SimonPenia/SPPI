@@ -11,6 +11,6 @@ Basic usage goes as follows:
 	exit		// closes the application
 
 
-Unfortunately in this state I can only try it compiling with Mono, and this for some reason crashes on Windows, throwing error code System.IndexOutOfRangeException, however it works fine on Linux.
+Unfortunately in this state I can only try it compiling with Mono on Linux, and this for some reason crashes on Windows, throwing error code System.IndexOutOfRangeException, however it works fine on Linux.
 
 Feel free to submit any modifications.
