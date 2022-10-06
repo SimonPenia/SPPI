@@ -1,9 +1,9 @@
 using System;
 using System.IO;
 
-namespace SPSA
+namespace SPPI
 {
-	class SPSA
+	class SPPI
 	{
 		static void Main(string[] args)
 		{
@@ -40,7 +40,7 @@ namespace SPSA
 					{
 						Console.Write(adminCmds[i] + ", ");
 					}
-					Console.WriteLine(adminCmds[4] + ".");
+					Console.WriteLine(adminCmds[3] + ".");
 				}
 				if(cmdInput == adminCmds[1])
 				{
