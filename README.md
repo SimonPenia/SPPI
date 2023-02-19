@@ -5,8 +5,8 @@ This is a (probably) extensive system for calculating purchases to make independ
 
 Basic usage goes as follows:
 
-	help		// Displays available general commands.
-	products	// Displays product list from an array.
+	help		// Displays available commands.
+	products	// Displays product list.
 	buy *product*	// Buys a product, where *product* is typed from the list.
 	money		// Displays total money earned for each product.
 	exit		// Closes the application.
