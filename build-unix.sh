@@ -1,3 +1,3 @@
 #!/bin/bash
-mcs -out:SPPI SPPI.cs
-mcs -out:SPPI.exe SPPI.cs
+mcs SPPI.cs -out:SPPI
+mcs SPPI.cs -out:SPPI.exe
