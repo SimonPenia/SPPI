@@ -1,7 +1,7 @@
 # SPPI
 the Simón Peña Purchase Interface.
 
-This is a (probably) extensive system for calculating purchases to make independant businesses' lives easier.
+This is a (probably) extensive system for calculating purchases to make independent businesses' lives easier.
 
 Basic usage goes as follows:
 
@@ -11,6 +11,6 @@ Basic usage goes as follows:
 	exit		// closes the application
 
 
-Unfortunately in this state I can only try it compiling with Mono on Linux, and this for some reason crashes on Windows, throwing error code System.IndexOutOfRangeException, however it works fine on Linux.
+I have only tried compiling on Linux using Mono, however, the build script also makes a Windows version.
 
 Feel free to submit any modifications.
