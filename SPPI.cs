@@ -13,11 +13,11 @@ namespace SPPI
 			bool open = true;
 			string cmdInput;
 			string[] products =
-			{"apples", "bananas", "oranges", "milk",
-			 "flour", "beds", "baths", "beyond",
-			 "redbull", "ice", "cake", "laptops",
-			 "pepsi", "pizza", "bacon", "condoms",
-			 "cookies", "pollos", "methylamine"};
+			{"apple", "banana", "orange", "milk",
+			 "flour", "egg", "chocolate", "beer",
+			 "meat", "ice", "shoes", "computer",
+			 "curtain", "pizza", "bacon", "water",
+			 "cookies", "chicken", "spoon"};
 			string[] adminCmds = {"help", "products", "buy", "money", "exit"};
 			
 			while(open == true)
